@@ -4,12 +4,6 @@
 
 Type true/false in the provided [ ].
 
-a) [false] `<div>
-                <span>hello</span>
-            </div>`
-
-b) [false]
-
 ```html
 <ul>
     <li>one</li>
@@ -25,6 +19,11 @@ c) [false] `<ul>
 
 ## Q2 - What is a screenreader and why should we care about them?
 A “screen reader” is a software application that converts the text displayed on a computer screen into synthesized speech. Text-to-speech capabilities are a vital component of AI assistants such as Apple’s Siri and Amazon’s Alexa, which “talk” with users by converting their replies into digital speech. Screen readers are a specific use case of text-to-speech technology that improve accessibility for people with visual disabilities.
+
+etc et cet cet 
+
+
+
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 https://www.boia.org/blog/why-screen-readers-are-essential-for-website-accessibility
